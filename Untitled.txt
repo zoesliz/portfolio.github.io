@@ -1,6 +1,8 @@
+<html>
 <H1>zz<h1>
 <body>
 </body>
 
 <img src="a.png">
 <body style="background-color:black;">
+</html>
